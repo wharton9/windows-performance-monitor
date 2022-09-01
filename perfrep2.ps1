@@ -19,6 +19,8 @@
     .NOTES
        Author: Wharton Wang
        Date: 17th August,2022
+ -Requires
+    This script requires Powershell 7.2 or above , or would be failed to run.
     
 #>
 param(
